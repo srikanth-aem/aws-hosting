@@ -31,7 +31,7 @@ body{margin: 0px;}
 }
 [name="testname"]{
     background-color: cadetblue;  
-    height:1200px;    
+        
 }
 [name="testname"]>div>p{
     text-align: center;
